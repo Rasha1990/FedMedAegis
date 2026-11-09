@@ -3,7 +3,7 @@
 This repository contains the official implementation of **FedMedAegis**, a unified federated learning framework for medical imaging. FedMedAegis addresses critical challenges in decentralized healthcare AI by including: (1) clinical risk-aware aggregation to prioritize high-risk pathologies, (2) Byzantine-robust defense against adversarial clients, (3) calibrated differential privacy for regulatory compliance, and (4) weakly supervised lesion localization without dense annotations—enabling secure, auditable, and parameter-efficient collaborative learning across hospitals.
 
 > **Note on Code Availability:** 
-> The complete source code, training scripts, and detailed preprocessing pipelines are publicly available in this repository under the MIT License.
+> The complete source code, training scripts, and detailed preprocessing pipelines will be made publicly available upon the official acceptance of our manuscript. For the duration of the peer-review process, the full codebase has been provided to the journal editors and reviewers as part of the submission package to ensure transparency and reproducibility.
 
 ## Dataset Information
 FedMedAegis was evaluated on five publicly available medical imaging datasets. We do not host the raw data in this repository due to size and licensing constraints, but the official sources are listed below. Preprocessing and stratified splitting scripts are included in the `scripts/` directory.
