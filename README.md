@@ -35,7 +35,7 @@ If you find this work or the provided code useful for your research, please cite
 @article{alhuthaifi2026fedmedaegis,
   title={FedMedAegis: Secure and Clinically-Prioritized Federated Learning for Medical Imaging},
   author={Al-Huthaifi, Rasha and Yang, Hailiang and Wang, Hengzhi and Cui, Laizhong and Huang, Wei and Al-Huda, Zaid},
-  journal={Information Fusion},
+  journal={},
   year={2026},
   note={Submitted for publication},
   publisher={Elsevier}
